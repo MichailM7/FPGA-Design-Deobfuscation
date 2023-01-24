@@ -1,0 +1,2 @@
+one_bits.zip filter=lfs diff=lfs merge=lfs -text
+zero_bits.zip filter=lfs diff=lfs merge=lfs -text
